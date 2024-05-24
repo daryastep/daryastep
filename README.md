@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Darya</a> 
-<h3 align="center">Data analyst </h3>
+<h3 align="center"></h3>
 
 <!--
 **daryastep/daryastep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
