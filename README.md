@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Darya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data analyst </h3>
 
 <!--
 **daryastep/daryastep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
