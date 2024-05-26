@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Языки и инструменты
-Python, SQL, Git, PostreSQL, Redash, Airflow, Jupyter Notebook, Command-line, Pandas, Numpy, Scipy, Sklearn, Matplotlib, Seaborn
+## Skills
+**Статистика**: основы теории вероятности,  математическая статистика, необходимая для проведение A/B тестов и анализа данных 
+**Python**: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly и другие библиотеки для подготовки, анализа и визуализации данных
+**SQL**: Clickhouse, MySQL, PostgreSQL, оконные функции, 
+**Визуализация**: Tableau, Redash, PowerBI 
+**Другое**: git,  MS Office, английский язык B1-Intermediate
