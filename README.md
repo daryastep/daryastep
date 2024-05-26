@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-**Статистика**: основы теории вероятности,  математическая статистика, необходимая для проведение A/B тестов и анализа данных   
-**Python**: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly и другие библиотеки для подготовки, анализа и визуализации данных  
-**SQL**: Clickhouse, MySQL, PostgreSQL, оконные функции, конструкции case   
-**Визуализация**: Tableau, Redash, PowerBI  
-**Другое**: git,  MS Office, английский язык B1-Intermediate  
+- **Статистика**: основы теории вероятности,  математическая статистика, необходимая для проведение A/B тестов и анализа данных   
+- **Python**: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly и другие библиотеки для подготовки, анализа и визуализации данных  
+- **SQL**: Clickhouse, MySQL, PostgreSQL, оконные функции, конструкции case   
+- **Визуализация**: Tableau, Redash, PowerBI  
+- **Другое**: git,  MS Office, английский язык B1-Intermediate  
