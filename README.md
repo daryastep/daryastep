@@ -17,7 +17,7 @@
 
 
 **Мои контакты:**
-* +7-923-174-79-84
+* +7(923)174-79-84
 * [Telegram](https://t.me/DaryStep)
 * [dariestep@gmail.com](mailto:dariestep@gmail.com) 
 
