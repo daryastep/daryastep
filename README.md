@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Darya</a> 
 <h3 align="center"></h3>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiZzk0MGx0aGJrYmV0dHM3dHdhMnFrdmFnZ2x4MmFjOXR4c2Q4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiZzk0MGx0aGJrYmV0dHM3dHdhMnFrdmFnZ2x4MmFjOXR4c2Q4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="400">
 
 
 
