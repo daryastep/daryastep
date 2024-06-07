@@ -1,7 +1,8 @@
 <h1 align="center">Hello! I'm Darya</a> 
 <h3 align="center"></h3>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiZzk0MGx0aGJrYmV0dHM3dHdhMnFrdmFnZ2x4MmFjOXR4c2Q4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="400">
+<img align="right" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="350">
+
 
 
 
@@ -10,8 +11,7 @@
 ### Я - Аналитик Данных
 
 *Имею высшее техническое образование.   
-Впервые столкнулась с аналитикой в магистратуре,
-когда занималась исследованиями в области когнитивной психологии.   
+Впервые столкнулась с аналитикой в магистратуре, когда занималась исследованиями в области когнитивной психологии.   
 Между карьерой в науке и аналитикой данных выбрала аналитику :)* 
 
 
