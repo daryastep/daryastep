@@ -27,12 +27,29 @@
 
 
 
+## Languages and Tools
+ <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+
+
 ## Skills
-- **Статистика**: `основы теории вероятности`,  `математическая статистика`, необходимая для проведение A/B тестов и анализа данных   
-- **Python**: `Pandas`,`Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Plotly` и другие библиотеки для подготовки, анализа и визуализации данных  
-- **SQL**: `Clickhouse`, `MySQL`, `PostgreSQL`, оконные функции, конструкции case   
-- **Визуализация**: `Tableau`, `Redash`, `PowerBI`  
-- **Другое**: `git`,  `MS Office`, английский язык B1-Intermediate 
+- Анализ метрик продуктов: RR, CR, ARPU, ARPPU, MAU, DAU и др
+- Проведение А/Б тестов и статистический анализ результатов
+- Когортный анализ, RFM-сегментирование
+- Написание SQL-запросов для баз данных (вложенные запросы, оконные функции, конструкции case и with)
+- Визуализация и разработка дашбордов в Tableau, Redash, PowerBI и др.
+- Работа с git и Airflow
+
 
 
 
